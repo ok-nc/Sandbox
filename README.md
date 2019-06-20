@@ -1,3 +1,3 @@
 # Sandbox
 
-Main repository for various testing.
+Main repository for testing.
